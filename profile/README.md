@@ -370,7 +370,7 @@
 
 ### 🌱 Server
 
-<img src="https://github.com/PawWithU/ConnectDog-Server/assets/80199502/514ad260-fcd4-4926-96d1-73fc43c1b880"  width="830">
+<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/63611804/c7353671-5ca9-4d27-9ba8-c58b7f8753ef"  width="830">
 
 <br>
 
@@ -522,6 +522,6 @@
 
 ## **🐬 Git Flow**
 
-<img src="https://github.com/PawWithU/ConnectDog-Server/assets/80199502/e58226ea-fd36-4502-b22d-b16f8badca50"  width="650">
+<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/63611804/1e05edea-7b3a-49aa-8dd8-70faca37be28"  width="650">
 
 <br>
