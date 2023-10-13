@@ -323,7 +323,7 @@
 
 <br>
 
-### 비즈니스모델 캔버스 (Business Model Canvas)
+### 비즈니스 모델 캔버스 (Business Model Canvas)
 
 <img src="https://github.com/PawWithU/ConnectDog-AOS/assets/63611804/12a2995b-31c5-450b-b44e-5b99c0d0017b"  width="850">
 
@@ -349,7 +349,7 @@
 
 ## 🎨 디자인
 
-<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/63611804/c1651a5a-6f92-4d3b-bb70-c5f9c054a9b1"  width="750">
+<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/63611804/d6344594-343f-402d-8429-51e334798be1"  width="750">
 
 <br>
 <br>
