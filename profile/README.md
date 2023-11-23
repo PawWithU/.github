@@ -410,7 +410,7 @@
 
 <img src="https://github.com/PawWithU/ConnectDog-AOS/assets/63611804/b855d01e-86d9-4351-8800-b2b102ea9afe"  width="800">
 
-<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/63611804/3bcf9988-1340-48db-8437-0da9e27e70da"  width="400">
+<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/80199502/7b53add5-1c45-4fc4-9180-27b3f765d10e"  width="750">
 
 <br>
 <br>
