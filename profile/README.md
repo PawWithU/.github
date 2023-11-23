@@ -122,7 +122,7 @@
 
 하지만 현재 중개자 별 후기 및 근황은 따로 모아져 있지 않기 때문에. 이동봉사자의 추가적인 리서치가 필요합니다.
 
-<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/80199502/90a7dc09-22a4-43d3-a260-7ea11960d8c6"  width="760">
+<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/63611804/bb9fddca-e65f-4a01-a270-a594e46c649c"  width="730">
 
 > *““이동봉사 중개 단체의 신뢰성이 선택의 가장 중요한 기준이라고 생각해요. 아무래도 생명을 다루는 일이라 조심스럽고 믿음이 있어야 봉사를 진행할 수 있다고 생각하거든요” (국내 이동봉사자 설문지)*
 
